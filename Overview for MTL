@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T01:44:30.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fKIUwdFA4Bz-CxmKYHni" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T06:16:33.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rFrxxQNGQumrgXDYf5VF" version="20.5.3" type="github">
   <diagram id="6ZnEK0ZPNE_HY8y-wpqX" name="Page-1">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="Pyz0UX1mzU4uvQapP-C9-12" value="NORM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="336" y="413" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Pyz0UX1mzU4uvQapP-C9-13" value="HASH" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Pyz0UX1mzU4uvQapP-C9-13" value="SENET+" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="241" y="413" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Pyz0UX1mzU4uvQapP-C9-14" value="ACTIVATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="4_x5BvvOt1M1PTzRrBwX-1" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="344" y="305" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="YZrSrl0xsKm4lUWnMKVQ-1" value="seq feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YZrSrl0xsKm4lUWnMKVQ-1" value="seq feature" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="426" y="476.5" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
